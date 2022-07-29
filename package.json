@@ -156,7 +156,7 @@
     "it-map": "^1.0.6",
     "it-pipe": "^2.0.3",
     "multiformats": "^9.6.3",
-    "protons-runtime": "^1.0.4",
+    "protons-runtime": "^2.0.1",
     "uint8arrays": "^3.0.0",
     "varint": "^6.0.0"
   },
