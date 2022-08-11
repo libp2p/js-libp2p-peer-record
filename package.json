@@ -160,7 +160,7 @@
     "it-map": "^1.0.6",
     "it-pipe": "^2.0.3",
     "multiformats": "^9.6.3",
-    "protons-runtime": "^2.0.2",
+    "protons-runtime": "^3.1.0",
     "uint8-varint": "^1.0.2",
     "uint8arraylist": "^2.1.0",
     "uint8arrays": "^3.0.0",
