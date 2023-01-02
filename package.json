@@ -160,7 +160,7 @@
     "it-foreach": "^1.0.0",
     "it-map": "^2.0.0",
     "it-pipe": "^2.0.3",
-    "multiformats": "^10.0.0",
+    "multiformats": "^11.0.0",
     "protons-runtime": "^4.0.1",
     "uint8-varint": "^1.0.2",
     "uint8arraylist": "^2.1.0",
